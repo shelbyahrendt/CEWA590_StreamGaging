@@ -1,8 +1,7 @@
-name: ulmo_streamgaging
+name: streamgaging_data
 channels:
   - conda-forge
 dependencies:
-  - python>=3.5
-  - ulmo
+  - pandas
   - jupyterlab
   - matplotlib
