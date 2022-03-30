@@ -1,18 +1,18 @@
 # CEWA590 StreamGaging
 
-This repository demonstrates how to load USGS stream gaging data from the NWIS server using `ulmo`
+This repository demonstrates how to load USGS stream gaging data from the [NWIS server](https://waterdata.usgs.gov/nwis) using python and pandas.
 
 ## Installation
 
 Install with conda:
 
-1. Clone the repository
+1. Clone the repository to your local machine: `git clone https://github.com/shelbyahrendt/CEWA590_StreamGaging.git`
 2. Within the repository tree run the following in your terminal
-`conda env create -f environment_ulmo.yml`
+`conda env create -f environment.yml`
 3. Activate the environment:
-`conda activate ulmo_streamgaging`
+`conda activate streamgaging_data`
 
-## Run
+## Run Demo
 
 1. Open JupyterLab: `jupyter lab`
-2. Select ulmo_demo.ipynb from the file tree to open
+2. Select `demo_scraping_NWIS_data.ipynb` from the file tree to open
