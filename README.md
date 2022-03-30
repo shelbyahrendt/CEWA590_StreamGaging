@@ -22,6 +22,6 @@ Install with conda:
 
 ## Resources for Creating Rating Curves
 
-- [Least-Squares] (https://www.researchgate.net/publication/335982384_Development_of_Stage_-_Distance_-_Discharge_Relationship_and_Rating_Curve_using_Least_Square_Method)
-- Lowess fitting: [in python](https://mike-langen.medium.com/creating-powerfull-lowess-graphs-in-python-e0ea7a30b17a), [in Matlab] (https://www.mathworks.com/help/curvefit/lowess-smoothing.html)
+- [Least-Squares](https://www.researchgate.net/publication/335982384_Development_of_Stage_-_Distance_-_Discharge_Relationship_and_Rating_Curve_using_Least_Square_Method)
+- Lowess fitting: [in python](https://mike-langen.medium.com/creating-powerfull-lowess-graphs-in-python-e0ea7a30b17a), [in Matlab](https://www.mathworks.com/help/curvefit/lowess-smoothing.html)
 - [Rating Curve Development using Bayseian Statistics (BaRatin Method)](https://riverhydraulics.inrae.fr/en/tools/measurement-software/baratin-method/)
