@@ -1,8 +1,9 @@
 # CEWA590 StreamGaging
 
-This repository accomponies the streamgaging homework for CEWA590. `demo_scraping_NWIS_data.ipynb` demonstrates how to load USGS stream gaging data from the [NWIS server](https://waterdata.usgs.gov/nwis) using python and pandas.
+This repository accomponies the streamgaging lecture and homework for CEWA590.
 
-There is also a folder with DEMs of two USGS gaging site locations: both are located in the Puget Lowland, but the rivers they are located on have very different degrees of morphodynamic adjustment over the last century.
+- `demo_scraping_NWIS_data.ipynb` demonstrates how to load USGS stream gaging data from the [NWIS server](https://waterdata.usgs.gov/nwis) using python and pandas.
+- There is also a folder with DEMs of two USGS gaging site locations: both are located in the Puget Lowland, but the rivers they are located on have very different degrees of morphodynamic adjustment over the last century.
 
 ## Installation
 
