@@ -11,3 +11,8 @@ Install with conda:
 `conda env create -f environment_ulmo.yml`
 3. Activate the environment:
 `conda activate ulmo_streamgaging`
+
+## Run
+
+1. Open JupyterLab: `jupyter lab`
+2. Select ulmo_demo.ipynb from the file tree to open
